@@ -1,0 +1,15 @@
+{
+  "name": "CustomBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:other-z/custombot.git",
+  "author": "other.z <oooother.z@gmail.com>",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
